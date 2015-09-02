@@ -4,8 +4,6 @@ output: pdf_document
 ---
 
 ```{r}
-test
-test
-test
+only one test
 ```
 
